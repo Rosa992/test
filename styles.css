@@ -1,0 +1,38 @@
+body {
+  margin: auto;
+}
+
+.container {
+  display: block;
+position: absolute;
+align-items: center;
+justify-content: center;
+width: 50%;
+border: solid 4px;
+  margin: 60px 0 60px ;
+  left: 30%;
+
+}
+
+.gallery {
+  display: block;
+position: relative;
+width: 70%;
+
+}
+
+.gal-item {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 50%;
+
+}
+
+ .gal-item img {
+   display: block;
+   position: relative;
+  width: 300px;
+
+  margin: auto;
+}
